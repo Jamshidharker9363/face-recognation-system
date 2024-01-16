@@ -11,7 +11,7 @@ Get the link storage and pasted <code>"storageBucket" = " "</code> in the string
 <br><br>
 Run <code>AddDatatoDatabase.py</code> and <code>EncodeGenator.py</code> <br><br>
 After running the <code>EncodeGenator.py</code> file, <code>EncodeFile.p</code> is created and the images in the images folder are added to the storage<br><br>
-After the <code>AddDatatoDatabase.py</code>code> file is run, data is added to the real time database<br><br>
+After the <code>AddDatatoDatabase.py</code> file is run, data is added to the real time database<br><br>
 Then run the <code>main.py</code> file<br><br>
 <br>
 <br>
